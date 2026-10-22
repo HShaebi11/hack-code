@@ -1,0 +1,187 @@
+app/api/sync/route.ts
+  s_4d4e2cda8aafd7::t_5c498b93ba119d 1-19
+mcp/server.ts
+  s_4d4e2cda8aafd7::t_0bc9c71aaa3d81 2-5
+  s_4d4e2cda8aafd7::t_43951fce31027e 1
+  s_4d4e2cda8aafd7::t_133f7dda2042ae 6-8
+  s_09a5d824c27c3f::t_3fd6ccbd29a64d 9-13
+app/page.tsx
+  s_09a5d824c27c3f::t_a98fa4b52f52a4 1-2,4-14,18,20-21,25-28,30,33,52,57,61-64,68-70
+  s_4d4e2cda8aafd7::t_532716668a8b3d 3,15-17,19,22-24,29,31-32,34-51,53-56,58-60,65-67,72
+  s_09a5d824c27c3f::t_ccbb9c66dbfcdb 71
+scripts/seed.ts
+  s_09a5d824c27c3f::t_28c6778fe6cbcd 1-3,5-8,10-11,13,16-21
+  s_4d4e2cda8aafd7::t_d928ba3e89aa7e 4,9,12,14-15
+fixtures/hack-code-whatsapp.txt
+  s_09a5d824c27c3f::t_74b82f0379a657 2-106
+  s_4d4e2cda8aafd7::t_c62ed4bce947dc 1
+app/events/[id]/page.tsx
+  s_09a5d824c27c3f::t_79b9a422ede6a1 1-85
+app/globals.css
+  s_09a5d824c27c3f::t_c2b3e434910520 4-23
+  s_09a5d824c27c3f::t_5f0f056b51f715 1-3
+  s_09a5d824c27c3f::t_33838034c9fa8c 24
+lib/supabase.ts
+  s_09a5d824c27c3f::t_0bbd2e8badd8ea 1-25
+lib/parse-whatsapp.ts
+  s_09a5d824c27c3f::t_1461ff62639332 1-85,87,90,92,94-100,102-111,113-116
+  s_4d4e2cda8aafd7::t_5235b60ad3da9e 86,88-89,91,93,101,112
+lib/import-corpus.ts
+  s_4d4e2cda8aafd7::t_4e19e0c8aad9a1 49
+  s_4d4e2cda8aafd7::t_daffeb81a0799a 1
+  s_09a5d824c27c3f::t_ef5d3df8167c63 2-48,50-63,65-129,158-174,176-178
+  s_4d4e2cda8aafd7::t_44b8e5c0c3662c 64
+  s_4d4e2cda8aafd7::t_41cec765459b7c 130-157
+  s_4d4e2cda8aafd7::t_bd41a04b37ea9a 175
+app/api/ideas/route.ts
+  s_09a5d824c27c3f::t_a22b20f8eb5d6b 1-12
+lib/sync-luma.ts
+  s_4d4e2cda8aafd7::t_a0b6898ddf9b39 1-154
+app/ideas/[id]/page.tsx
+  s_09a5d824c27c3f::t_7867c908ecf70f 1-42
+.gitignore
+  s_4d4e2cda8aafd7::t_aef8d6f247fc8f 38-40
+  s_09a5d824c27c3f::t_0c8b42db6d7c98 33-36
+  s_09a5d824c27c3f::t_d7e1237288662a 30-32
+  s_4d4e2cda8aafd7::t_a99cd2a18d0eea 41-43
+  s_09a5d824c27c3f::t_aa90a4a196921b 1-29,37,44-46
+lib/queries.ts
+  s_4d4e2cda8aafd7::t_c1bc4891d519a4 3
+  s_09a5d824c27c3f::t_ab4dca601843cd 1-2,4-45,47,49-50,59-61,82,85-97,99,101-102
+  s_4d4e2cda8aafd7::t_a38c9404dd58cb 46,48,51-58,62-81,83-84,98,100
+lib/cognee.ts
+  s_09a5d824c27c3f::t_c92b99285ae2e5 1-14,17-66
+  s_09a5d824c27c3f::t_f315e2e0774b5c 15-16
+lib/admin.ts
+  s_4d4e2cda8aafd7::t_9b09cb18c48e44 1-8
+scripts/sync.ts
+  s_4d4e2cda8aafd7::t_876f67c464b9d7 1-13
+lib/retrieve.ts
+  s_4d4e2cda8aafd7::t_ed299e4ab90b5b 1-70,72-160,162-230
+  s_4d4e2cda8aafd7::t_c0fb4a3e23b6bf 71,161
+components/import-form.tsx
+  s_09a5d824c27c3f::t_64c2ba7b31df44 1-21,23-41,43-115,117-132,163-169,172-181
+  s_4d4e2cda8aafd7::t_ee2cd8a2371eb8 116
+  s_09a5d824c27c3f::t_113b50f9ef5d4e 133-162
+  s_4d4e2cda8aafd7::t_772163b9694284 22
+  s_4d4e2cda8aafd7::t_cc5ebf90139b0b 42
+  s_4d4e2cda8aafd7::t_a294fab9f93129 170-171
+.env.example
+  s_4d4e2cda8aafd7::t_b8b298af591c0c 6-8
+  s_09a5d824c27c3f::t_8367fefe8d858f 1-5,9-11
+LICENSE
+  s_09a5d824c27c3f::t_beb95505208d76 1-21
+components/sync-now.tsx
+  s_4d4e2cda8aafd7::t_25ca5aa439125b 1-52
+lib/types.ts
+  s_4d4e2cda8aafd7::t_0f395788dd5e3b 2,5
+  s_09a5d824c27c3f::t_4e2ed293cf487b 1,3-4,6-11,13-37,44-47,49-55,88-143
+  s_4d4e2cda8aafd7::t_7e9c6309e968d6 56-87
+  s_4d4e2cda8aafd7::t_e7eb41b38338bf 38-43,48
+  s_4d4e2cda8aafd7::t_1f7a9027cdbd8e 12
+components/build-event-button.tsx
+  s_09a5d824c27c3f::t_ebc379bcf0e67f 1-42
+app/api/import/route.ts
+  s_09a5d824c27c3f::t_1d21ce08b903d4 1-46
+package.json
+  s_09a5d824c27c3f::t_7c1db10cc94e47 9-10,12
+  s_4d4e2cda8aafd7::t_df0568be9a8d6b 11
+  s_09a5d824c27c3f::t_915d8da611882f 15-22
+  s_09a5d824c27c3f::t_22ae598f887769 6-8
+  s_09a5d824c27c3f::t_c8beeb1f63e28f 13-14
+  s_09a5d824c27c3f::t_5d1229d8602b04 23-25
+  s_09a5d824c27c3f::t_0e6a6103c62251 1-5,26-35
+supabase/migrations/20241022204500_grapevine.sql
+  s_4d4e2cda8aafd7::t_b94ed980b10624 1-38
+lib/extract.ts
+  s_4d4e2cda8aafd7::t_701befcafa956d 7,14-45
+  s_4d4e2cda8aafd7::t_92891ef784124d 195
+  s_09a5d824c27c3f::t_73115ca4c0090a 218
+  s_09a5d824c27c3f::t_701fef377b3223 1-6,8-13,46-131,133-194,196-217,219-245
+  s_4d4e2cda8aafd7::t_06bb929415c5a9 132
+README.md
+  s_4d4e2cda8aafd7::t_1bae7bb9a59513 1-20,22-42
+  s_09a5d824c27c3f::t_03be6483030222 21
+app/api/mcp/route.ts
+  s_4d4e2cda8aafd7::t_c8c977f8785a84 1-58
+.cursor/mcp.json
+  s_4d4e2cda8aafd7::t_7161ea7227c17e 3-4
+  s_09a5d824c27c3f::t_c07e94365bba5e 1-2,5-7
+supabase/migrations/20241022120000_init.sql
+  s_09a5d824c27c3f::t_3cc37812945072 1-94
+lib/generate-event.ts
+  s_09a5d824c27c3f::t_680c346a06543f 1-93,95-200
+  s_09a5d824c27c3f::t_d3d6d0d69baf9a 94
+components/header.tsx
+  s_09a5d824c27c3f::t_03da3c6a0e776b 1-5,7-12,14-18,20-31,33-38
+  s_4d4e2cda8aafd7::t_5ee58dcf38bd8e 6,13,19,32,39
+docs/MAP.md
+  s_4d4e2cda8aafd7::t_41b762ced5a3f6 1-13
+  s_4d4e2cda8aafd7::t_2ca5733ffbcfec 14-16
+  s_09a5d824c27c3f::t_3becaad1d4e965 17
+app/api/ideas/[id]/event/route.ts
+  s_09a5d824c27c3f::t_a79252696bd7f3 1-19
+app/ideas/page.tsx
+  s_4d4e2cda8aafd7::t_2c595e93c494a2 27-28
+  s_09a5d824c27c3f::t_5e3297e200e5db 1-26,29-104
+app/layout.tsx
+  s_09a5d824c27c3f::t_702829bf5e93c3 17
+  s_09a5d824c27c3f::t_8417fb98fdf1ff 21-23
+  s_4d4e2cda8aafd7::t_6670922c63561b 16,18
+  s_4d4e2cda8aafd7::t_cc65d994b8c026 13-15
+  s_09a5d824c27c3f::t_e70172afdcb208 24-26
+  s_09a5d824c27c3f::t_2b22bafa2fc9c8 1-12,19-20,27-32
+public/hack-code-whatsapp.txt
+  s_4d4e2cda8aafd7::t_b89c0037720580 1
+  s_09a5d824c27c3f::t_a02f728486ea26 2-106
+lib/mcp-app.ts
+  s_4d4e2cda8aafd7::t_bb5d0764e84008 1-44
+lib/community.ts
+  s_4d4e2cda8aafd7::t_8af01fef3c82fc 2
+  s_09a5d824c27c3f::t_fa9e531b8d8796 1,3-23,25-27,29-30,32-40,43-46,57,59
+  s_4d4e2cda8aafd7::t_11a7103eda1947 24,28,31,41-42,47-56,58
+docs/SPEC.md
+  s_09a5d824c27c3f::t_4f5acc757dfd6e 1-67
+eslint.config.mjs
+  s_09a5d824c27c3f::t_f4a7c3f2f882d7 1-18
+next.config.ts
+  s_09a5d824c27c3f::t_0512b0229da1e4 1-14
+package-lock.json
+  s_09a5d824c27c3f::t_011623c47d5152 1-8445
+public/file.svg
+  s_09a5d824c27c3f::t_a6eab0468b1db5 1
+public/globe.svg
+  s_09a5d824c27c3f::t_ed16e1ae4d2de2 1
+public/next.svg
+  s_09a5d824c27c3f::t_572826baad6fe9 1
+public/vercel.svg
+  s_09a5d824c27c3f::t_8dee893d0f94a9 1
+public/window.svg
+  s_09a5d824c27c3f::t_41aaec6a6dd0a2 1
+tsconfig.json
+  s_09a5d824c27c3f::t_b0e39b1019e54e 1-34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ffe6c045e591a787533e8badddff3cd2fe2aeb40",
+  "prompts": {},
+  "sessions": {
+    "s_09a5d824c27c3f": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "09c864cf-cd3b-4501-ae20-734f634862bd",
+        "model": "grok-4.6"
+      },
+      "human_author": "Hamza <hshaebi.11@gmail.com>"
+    },
+    "s_4d4e2cda8aafd7": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "3f763a0f-6307-4513-abde-8d781b04e874",
+        "model": "grok-4.6"
+      },
+      "human_author": "Hamza <hshaebi.11@gmail.com>"
+    }
+  }
+}
