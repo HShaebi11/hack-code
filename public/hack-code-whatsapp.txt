@@ -1,0 +1,106 @@
+# DEMO DATA — rehearsal Hack Code thread, not a live export. Use a real group export for the judged demo if you have one.
+[03/10/2026, 18:02:11] Maya: Welcome to Hack Code if you just joined. We're builders in the city who actually ship, not a job board.
+[03/10/2026, 18:02:40] Jamal: yo
+[03/10/2026, 18:03:01] Priya: hey! first time here
+[03/10/2026, 18:03:12] Maya: Drop what you're working on. No pitches for courses.
+[03/10/2026, 18:04:22] Leo: Designing a messy events tool. Tired of Luma pages that forget who the community is.
+[03/10/2026, 18:04:55] Chen: Fine-tuning a small model for support tickets. Happy to show a demo if we ever do a night for that.
+[03/10/2026, 18:05:12] Sofi: I run a tiny bar near the studio. Say if you need a room.
+[03/10/2026, 18:05:18] Jamal: ok
+[03/10/2026, 18:06:01] Nora: I do partnerships at a payments company. I can intro sponsors but only for real programmes, not random mixers.
+[03/10/2026, 18:07:44] Alex: Venue hunting is painful. Last meetup we lost 40 minutes on the lockbox.
+[03/10/2026, 18:08:02] Maya: Noted. We'll keep a short list internally, not a city-wide database.
+[03/10/2026, 18:08:11] Priya: <Media omitted>
+[03/10/2026, 18:09:00] Priya: I'm newer to shipping in public. The advanced talks go over my head in 10 minutes.
+[03/10/2026, 18:10:14] Jamal: same
+[03/10/2026, 18:12:33] Maya: That's useful. Don't lurk — tell us what would make you stay.
+[04/10/2026, 12:11:08] Chen: Anyone tried grok for structured extraction? Faster than I expected on messy chat logs.
+[04/10/2026, 12:12:01] Leo: lol
+[04/10/2026, 12:14:22] Jamal: I can help with the backend if we ever store people + ideas properly. Postgres, not a spreadsheet.
+[04/10/2026, 19:40:02] Sofi: Drinks after the last session were the only time I met three new people. The talks were fine.
+[04/10/2026, 19:41:19] Maya: We usually do 30–40 people. Beginners bounce after one night of jargon.
+[04/10/2026, 19:42:00] Priya: If there was a beginners track I would actually come every time.
+[04/10/2026, 19:42:18] Leo: 🔥
+[04/10/2026, 19:43:55] Chen: I can sit with beginners on prompts / evals. I'm not a teacher but I can pair.
+[05/10/2026, 09:01:12] Nora: Quick one — don't blast a sponsor email until we have a real event page. They ignore Slack screenshots.
+[05/10/2026, 09:02:03] Maya: Agree. We're not doing marketplace matching. One good night first.
+[05/10/2026, 09:03:44] Alex: I can door-keep and do name stickers. That's my superpower apparently.
+[05/10/2026, 11:18:00] This message was deleted
+[05/10/2026, 21:02:11] Leo: We should do lightning talks on shipping, 5 minutes, no slides about "the future of AI".
+[05/10/2026, 21:02:40] Jamal: +1
+[05/10/2026, 21:03:12] Chen: I can do one on evals that don't lie.
+[05/10/2026, 21:04:01] Priya: Would watch if there's a beginners lane in the same evening so I'm not lost.
+[06/10/2026, 08:44:19] Maya: Office hours with seniors would help. 25 min slots, not a panel.
+[06/10/2026, 08:45:02] Jamal: I'll take two slots. Backend, auth, "why is my webhook dead".
+[06/10/2026, 08:46:33] Leo: I can do design office hours. Bring a broken landing page.
+[06/10/2026, 08:47:01] Sofi: ok
+[06/10/2026, 13:20:44] Nora: Women / non-binary breakfast before a Saturday session? Smaller room, less shouting.
+[06/10/2026, 13:21:09] Priya: I would host the first one if someone helps with the room.
+[06/10/2026, 13:22:00] Maya: Let's keep it optional and named. Not a side quest that never happens.
+[07/10/2026, 17:55:12] Alex: Pair programming Sundays? Library has tables until 4.
+[07/10/2026, 17:56:01] Chen: I can show up two Sundays this month.
+[07/10/2026, 17:56:40] Jamal: I'm in if we pick one stack and not "bring whatever".
+[07/10/2026, 17:57:11] Leo: Recurring "what I shipped" thread would be better than another meetup some weeks.
+[07/10/2026, 17:58:02] Maya: Both. Thread is cheap. Sunday is for people who need a body in a chair.
+[08/10/2026, 10:02:18] Sofi: If we do drinks + a demo night I can hold the back room on a Thursday. Quiet enough to hear a laptop.
+[08/10/2026, 10:03:44] Chen: Demo night is the thing. 6 people max on stage. Laptops. Then drinks.
+[08/10/2026, 10:04:12] Nora: That's sponsor-shaped if the page says who it's for.
+[08/10/2026, 10:05:01] Leo: I'll design a one-pager if someone writes the pitch from actual chat, not vibes.
+[08/10/2026, 10:05:22] Maya: That's the job. Import what we already said.
+[08/10/2026, 19:11:00] Priya: Still voting beginners track. Half of us are scared of the #ship channel.
+[08/10/2026, 19:12:18] Jamal: Beginners track can be "your first PR / your first event page" not "what is a variable".
+[08/10/2026, 19:13:40] Chen: I'll co-run that with Priya. She knows the questions. I can keep it from becoming a bootcamp ad.
+[08/10/2026, 19:14:02] Priya: Deal. I can speak for 10 minutes on being new here and then we pair.
+[09/10/2026, 12:00:01] Maya: Reminder: no crypto shills. I'll remove them.
+[09/10/2026, 12:00:44] Alex: already did one this morning
+[09/10/2026, 12:01:02] Maya: thanks
+[09/10/2026, 18:22:11] Leo: <Media omitted>
+[09/10/2026, 18:22:40] Leo: Sketch of a room layout. Talks left, beginners table right, drinks at the back.
+[09/10/2026, 18:23:18] Sofi: That matches the back room. I can mark the floor with tape.
+[10/10/2026, 09:40:02] Nora: Sponsor AMA only if they send an engineer, not a brand person.
+[10/10/2026, 09:41:11] Maya: Park that. After we have one real night.
+[10/10/2026, 21:05:33] Jamal: We should write down who can speak so Maya doesn't scroll 800 messages.
+[10/10/2026, 21:06:12] Chen: People list: Maya leads, Priya beginners, me demos, Jamal backend office hours, Leo design, Sofi room, Alex door, Nora only if we have a page.
+[10/10/2026, 21:07:01] Maya: Yes. Organised artefacts, not a chat log.
+[11/10/2026, 11:11:11] Priya: Idea again because it keeps dying in the scroll: a beginners track at the next night. Same room. One table. No shame questions.
+[11/10/2026, 11:12:40] Leo: I'll sit at that table after I do a 5 min visual critique.
+[11/10/2026, 11:13:05] Jamal: I can do "why your env is lying" for beginners too.
+[11/10/2026, 14:02:18] Alex: Capacity is 45 if we use Sofi's room. 20 if the library.
+[11/10/2026, 14:03:01] Sofi: Thursday 23 Oct is free. I need a yes/no by Friday.
+[11/10/2026, 14:04:22] Maya: We need a page before I can say yes. Title, pitch, why now, who might speak.
+[11/10/2026, 14:05:00] Nora: Send me that page and I can test it on one friendly sponsor. Not a blast.
+[12/10/2026, 19:01:08] Maya: Putting the beginners track at the top. That's the pipeline idea. If we build one event page, it's this.
+[12/10/2026, 19:02:44] Priya: Beginners track: 30 minutes at the start, then they can watch demos without feeling stupid.
+[12/10/2026, 19:03:18] Chen: I'll open with one pattern: log the prompt, log the fail, don't mythologise the model.
+[12/10/2026, 19:04:02] Jamal: And I'll take overflow questions on APIs.
+[12/10/2026, 19:05:11] Leo: Drinks + demo night can be the second half. Same evening. Don't split the audience.
+[12/10/2026, 19:06:00] Sofi: Confirmed I can do drinks after demos. No PA system, voices only.
+[12/10/2026, 19:07:22] Alex: I'll run the door and a paper list. We're not building RSVP in the product tonight.
+[12/10/2026, 19:08:40] Maya: Perfect. Someone turn the beginners track into an event page with citations. WhatsApp, 12 Oct. Status: idea.
+[12/10/2026, 19:09:01] Chen: ok
+[12/10/2026, 19:09:18] Priya: This is the one. Build me an event page of this idea.
+[12/10/2026, 19:10:02] Leo: Include why this community / why now: beginners are bouncing, we have a room, we have people who offered to teach.
+[12/10/2026, 19:11:44] Nora: And names. Speakers from the data, not LinkedIn.
+[13/10/2026, 08:15:00] Maya: Community is Hack Code. We already said everything. Import, organise, pick one idea.
+[13/10/2026, 08:16:22] Jamal: If import is slow on stage, pre-import this export and replay extract + generate.
+[13/10/2026, 08:17:01] Chen: I'll be in the room either way.
+[13/10/2026, 12:40:18] Alex: Lost a sticker sheet. Buying more.
+[13/10/2026, 12:40:22] Maya: 😂
+[13/10/2026, 18:02:00] Priya: Sharing a fear: I don't want the beginners track to become "Python 101". It's "how this community ships".
+[13/10/2026, 18:03:11] Maya: That's the pitch. One line. Write it on the page.
+[13/10/2026, 18:04:40] Leo: Office hours can wait a week. Don't overload the first night.
+[13/10/2026, 18:05:12] Jamal: Agree. Park Sundays too.
+[13/10/2026, 18:06:01] Sofi: I'll put extra glasses out. That's my contribution besides the room.
+[14/10/2026, 09:20:44] Nora: Still no page. The lead shouldn't scroll Slack. Same for WhatsApp.
+[14/10/2026, 09:21:18] Maya: Working on it.
+[14/10/2026, 21:11:02] Chen: Memory: this group hates generic AI talks and loves a demo that failed then worked.
+[14/10/2026, 21:12:33] Leo: Memory: we are not a city-wide venue DB. One room we trust.
+[14/10/2026, 21:13:01] Priya: Memory: half the new people came from a friend, not Twitter.
+[15/10/2026, 10:00:00] Maya: Last call for the beginners track page. If you can speak, you already said so above.
+[15/10/2026, 10:01:22] Priya: I can speak.
+[15/10/2026, 10:01:40] Chen: I can speak.
+[15/10/2026, 10:02:05] Jamal: I can help, maybe not a full talk.
+[15/10/2026, 10:03:18] Leo: I can run the critique table.
+[15/10/2026, 10:04:00] Alex: Door.
+[15/10/2026, 10:04:22] Sofi: Room + drinks.
+[15/10/2026, 10:05:01] Nora: Page first. Then one intro. Listener and matching next; this is the wedge.
